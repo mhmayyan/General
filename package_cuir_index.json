@@ -12,12 +12,12 @@
         {
           "name": "STM32 Cores",
           "architecture": "stm32",
-          "version": "1.8.0",
+          "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/1.8.0/STM32-1.8.0.tar.bz2",
-          "archiveFileName": "STM32-1.8.0.tar.bz2",
-          "checksum": "SHA-256:756d39fab2ca5c0bf857b64153a265dd7ef2c151464bd248d6ca94ee05ca8fe7",
-          "size": "29132822",
+          "url": "https://github.com/mhmayyan/IRCB/archive/V0.1.zip",
+          "archiveFileName": "IRCB-0.0.1.zip",
+          "checksum": "4CD7A8D5CC4D2ED5FBCFFEF3B2228F1354B6D0666055A2F84B3121CCDAB2CCD0",
+          "size": "42743945",
           "boards": [
             {"name": "IRSB"}
           ],
