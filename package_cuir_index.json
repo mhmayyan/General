@@ -12,14 +12,15 @@
         {
           "name": "STM32 Cores",
           "architecture": "stm32",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://github.com/mhmayyan/IRCB/archive/V0.0.1.zip",
+          "url": "https://github.com/mhmayyan/IRCB/archive/V0.0.2.zip",
           "archiveFileName": "IRCB-0.0.1.zip",
-          "checksum": "SHA-256:4CD7A8D5CC4D2ED5FBCFFEF3B2228F1354B6D0666055A2F84B3121CCDAB2CCD0",
-          "size": "42743945",
+          "checksum": "SHA-256:13A06EBE25B3DAC7D2C3909496DE0D88D04157273EDF32D8675002982CBC0F53",
+          "size": "42755491",
           "boards": [
-            {"name": "IRSB"}
+            {"name": "IR_Sensor_Board"},
+            {"name": "IR_Mouse"}
           ],
           "toolsDependencies": [
             {
@@ -30,7 +31,7 @@
             {
               "packager": "STM32",
               "name": "STM32Tools",
-              "version": "1.2.1"
+              "version": "1.3.2"
             },
             {
               "packager": "STM32",
@@ -127,36 +128,36 @@
         },
         {
           "name": "STM32Tools",
-          "version": "1.2.1",
+          "version": "1.3.2",
           "systems":
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.2.1/STM32Tools-1.2.1-windows.tar.bz2",
-              "archiveFileName": "STM32Tools-1.2.1-windows.tar.bz2",
-              "checksum": "SHA-256:b4c83a965b88febe035e02b61ab0c5631e64f98718c00e3940a17683898f9a99",
-              "size": "10856955"
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.3.2/STM32Tools-1.3.2-windows.tar.bz2",
+              "archiveFileName": "STM32Tools-1.3.2-windows.tar.bz2",
+              "checksum": "SHA-256:d77027f907b5351ecc7a78113df6b7c830e6b556e571db0394ba7407602aa9c4",
+              "size": "2848388"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.2.1/STM32Tools-1.2.1-mac.tar.bz2",
-              "archiveFileName": "STM32Tools-1.2.1-mac.tar.bz2",
-              "checksum": "SHA-256:52d162f11afcd0cec37d02106ace4d1e68bfe85633fe926094bcf8210f4d755a",
-              "size": "799691"
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.3.2/STM32Tools-1.3.2-mac.tar.bz2",
+              "archiveFileName": "STM32Tools-1.3.2-mac.tar.bz2",
+              "checksum": "SHA-256:7737bdb0ea3cd69cf45dfbb19ee015cde09fa986026c08a4bc85009e0f8103f0",
+              "size": "761023"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.2.1/STM32Tools-1.2.1-linux.tar.bz2",
-              "archiveFileName": "STM32Tools-1.2.1-linux.tar.bz2",
-              "checksum": "SHA-256:ccd78966b4523966544676b119f918aa6d14ce8c2fb1ac2b9ea0e3a2e02693ad",
-              "size": "1350836"
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.3.2/STM32Tools-1.3.2-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-1.3.2-linux.tar.bz2",
+              "checksum": "SHA-256:ba62b6261d9870db5e359feb72efd9a6cc99b1a966054e547432a9dac9295254",
+              "size": "995993"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.2.1/STM32Tools-1.2.1-linux.tar.bz2",
-              "archiveFileName": "STM32Tools-1.2.1-linux.tar.bz2",
-              "checksum": "SHA-256:ccd78966b4523966544676b119f918aa6d14ce8c2fb1ac2b9ea0e3a2e02693ad",
-              "size": "1350836"
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.3.2/STM32Tools-1.3.2-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-1.3.2-linux.tar.bz2",
+              "checksum": "SHA-256:ba62b6261d9870db5e359feb72efd9a6cc99b1a966054e547432a9dac9295254",
+              "size": "995993"
             }
           ]
         }
