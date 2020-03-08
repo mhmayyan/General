@@ -36,7 +36,7 @@
               "packager": "mcci_cuir"
             },
             {
-              "packager": "arduino",
+              "packager": "mcci_cuir",
               "name": "CMSIS",
               "version": "4.5.0"
             }
