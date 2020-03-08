@@ -10,17 +10,17 @@
       },
       "platforms": [
         {
-          "name": "MCCI Catena STM32 Boards",
+          "name": "MCCI_CUIR Catena STM32 Boards",
           "architecture": "stm32",
           "version": "2.3.0",
           "category": "Contributed",
           "help": {
-            "online": "https://portal.mcci.com"
+            "online": "http://iriver.info"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/v2.3.0.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-2_3_0.tar.gz",
-          "checksum": "SHA-256:9d5f1cf14bddc5f4386e2da1aa2268e0fcb35a9907f61370e1b5c5e7ae4cb447",
-          "size": "6215356",
+          "url": "https://github.com/mhmayyan/MCCI_CUIR/archive/V2.3.0.zip",
+          "archiveFileName": "MCCI_CUIR-2.3.0.zip",
+          "checksum": "SHA-256:4A94729E099FCED874E09ED3F9E56FCB306205E0112CFEBF80EEDE112049957A",
+          "size": "6620363",
           "boards": [
             {"name": "Catena4612"}
           ],
