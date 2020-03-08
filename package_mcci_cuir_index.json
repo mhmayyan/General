@@ -28,12 +28,12 @@
             {
               "version": "6-2017-q2-update",
               "name": "arm-none-eabi-gcc",
-              "packager": "mcci"
+              "packager": "mcci_cuir"
             },
             {
               "version": "2018.3.23-mcci",
               "name": "STM32Tools",
-              "packager": "mcci"
+              "packager": "mcci_cuir"
             },
             {
               "packager": "arduino",
