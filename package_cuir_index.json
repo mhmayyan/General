@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "STM32 Cores",
+          "name": "Clemson University Intelligent River®",
           "architecture": "stm32",
           "version": "0.0.2",
           "category": "Contributed",
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "name": "STM32 Cores",
+          "name": "Clemson University Intelligent River®",
           "architecture": "stm32",
           "version": "0.0.3",
           "category": "Contributed",
@@ -49,6 +49,37 @@
           "archiveFileName": "IRCB-0.0.3.zip",
           "checksum": "SHA-256:DFF308A2E9302063C9A6DF3D75FC696EE68A27C4D68945FD93D7517DC00035F2",
           "size": "42755363",
+          "boards": [
+            {"name": "IRSB"},
+            {"name": "IRMouse"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "STM32",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "9.2.1-1.1"
+            },
+            {
+              "packager": "STM32",
+              "name": "STM32Tools",
+              "version": "1.3.2"
+            },
+            {
+              "packager": "STM32",
+              "name": "CMSIS",
+              "version": "5.5.1"
+            }
+          ]
+        },
+        {
+          "name": "Clemson University Intelligent River®",
+          "architecture": "stm32",
+          "version": "0.0.4",
+          "category": "Contributed",
+          "url": "https://github.com/mhmayyan/IRCB/archive/V0.0.4.zip",
+          "archiveFileName": "IRCB-0.0.4.zip",
+          "checksum": "SHA-256:60B32903F1E3B37CD01040CAC83CA4ED1DD7832960B9849FD85DA7B9BA45813A",
+          "size": "4989862",
           "boards": [
             {"name": "IRSB"},
             {"name": "IRMouse"}
