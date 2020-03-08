@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Clemson University Intelligent River®",
+          "name": "Clemson University Intelligent River® (CUIR)",
           "architecture": "stm32",
           "version": "0.0.2",
           "category": "Contributed",
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "name": "Clemson University Intelligent River®",
+          "name": "Clemson University Intelligent River® (CUIR)",
           "architecture": "stm32",
           "version": "0.0.3",
           "category": "Contributed",
@@ -72,7 +72,7 @@
           ]
         },
         {
-          "name": "Clemson University Intelligent River®",
+          "name": "Clemson University Intelligent River® (CUIR)",
           "architecture": "stm32",
           "version": "0.0.4",
           "category": "Contributed",
