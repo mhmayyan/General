@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/mhmayyan/MCCI_CUIR/archive/V2.3.0.zip",
           "archiveFileName": "MCCI_CUIR-2.3.0.zip",
-          "checksum": "SHA-256:4A94729E099FCED874E09ED3F9E56FCB306205E0112CFEBF80EEDE112049957A",
-          "size": "6620363",
+          "checksum": "SHA-256:FC081C56D57B53A2F4E52883409F380F97EA7180FA4D9FE872808A572EBCD3C2",
+          "size": "6620368",
           "boards": [
             {"name": "Catena4612"}
           ],
