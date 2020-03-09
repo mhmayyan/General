@@ -41,6 +41,39 @@
               "version": "4.5.0"
             }
           ]
+        },
+				{
+          "name": "MCCI_CUIR Catena STM32 Boards",
+          "architecture": "stm32",
+          "version": "2.3.1",
+          "category": "Contributed",
+          "help": {
+            "online": "http://iriver.info"
+          },
+          "url": "https://github.com/mhmayyan/MCCI_CUIR/archive/V2.3.1.zip",
+          "archiveFileName": "MCCI_CUIR-2.3.1.zip",
+          "checksum": "SHA-256:265CEA05B6BAA90A6F30B13AB2AD8152B3FD444720D3EA2C50BF257A7C2EDCCB",
+          "size": "6620420",
+          "boards": [
+            {"name": "Catena4612"}
+          ],
+          "toolsDependencies": [
+            {
+              "version": "6-2017-q2-update",
+              "name": "arm-none-eabi-gcc",
+              "packager": "mcci_cuir"
+            },
+            {
+              "version": "2018.3.23-mcci",
+              "name": "STM32Tools",
+              "packager": "mcci_cuir"
+            },
+            {
+              "packager": "mcci_cuir",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            }
+          ]
         }
       ],
       "tools": [
