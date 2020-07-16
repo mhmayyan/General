@@ -12,105 +12,12 @@
         {
           "name": "Clemson University Intelligent River® (CUIR)",
           "architecture": "stm32",
-          "version": "0.0.2",
-          "category": "Contributed",
-          "url": "https://github.com/mhmayyan/CUIR_Boards/archive/V0.0.2.zip",
-          "archiveFileName": "CUIR_Boards-0.0.2.zip",
-          "checksum": "SHA-256:13A06EBE25B3DAC7D2C3909496DE0D88D04157273EDF32D8675002982CBC0F53",
-          "size": "42755491",
-          "boards": [
-            {"name": "IR_Sensor_Board"},
-            {"name": "IR_Mouse"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "CUIR",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "CUIR",
-              "name": "STM32Tools",
-              "version": "1.3.2"
-            },
-            {
-              "packager": "CUIR",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]
-        },
-        {
-          "name": "Clemson University Intelligent River® (CUIR)",
-          "architecture": "stm32",
-          "version": "0.0.3",
-          "category": "Contributed",
-          "url": "https://github.com/mhmayyan/CUIR_Boards/archive/V0.0.3.zip",
-          "archiveFileName": "CUIR_Boards-0.0.3.zip",
-          "checksum": "SHA-256:DFF308A2E9302063C9A6DF3D75FC696EE68A27C4D68945FD93D7517DC00035F2",
-          "size": "42755363",
-          "boards": [
-            {"name": "IRSB"},
-            {"name": "IRMouse"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "CUIR",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "CUIR",
-              "name": "STM32Tools",
-              "version": "1.3.2"
-            },
-            {
-              "packager": "CUIR",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]
-        },
-        {
-          "name": "Clemson University Intelligent River® (CUIR)",
-          "architecture": "stm32",
-          "version": "0.0.4",
-          "category": "Contributed",
-          "url": "https://github.com/mhmayyan/CUIR_Boards/archive/V0.0.4.zip",
-          "archiveFileName": "CUIR_Boards-0.0.4.zip",
-          "checksum": "SHA-256:60B32903F1E3B37CD01040CAC83CA4ED1DD7832960B9849FD85DA7B9BA45813A",
-          "size": "4989862",
-          "boards": [
-            {"name": "IRSB"},
-            {"name": "IRMouse"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "CUIR",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "CUIR",
-              "name": "STM32Tools",
-              "version": "1.3.2"
-            },
-            {
-              "packager": "CUIR",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]
-        },
-        {
-          "name": "Clemson University Intelligent River® (CUIR)",
-          "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/mhmayyan/CUIR_Boards/archive/V1.0.0.zip",
           "archiveFileName": "CUIR_Boards-1.0.0.zip",
-          "checksum": "SHA-256:9046C85DDF59894B90B5A6D16ED4C597ADD97E1F2A815A41F933FBBED6A592C6",
-          "size": "4988383",
+          "checksum": "SHA-256:839E27DD733C1E016F8743BBF51C25331C62D08791C312AE31EEB836059A3345",
+          "size": "5008417",
           "boards": [
             {"name": "IRSB"},
             {"name": "IRMouse"}
