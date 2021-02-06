@@ -70,6 +70,37 @@
               "version": "5.5.1"
             }
           ]
+        },
+        {
+          "name": "Clemson University Intelligent River® (CUIR)",
+          "architecture": "stm32",
+          "version": "1.1.1",
+          "category": "Contributed",
+          "url": "https://github.com/mhmayyan/CUIR_Boards/archive/V1.1.1.zip",
+          "archiveFileName": "CUIR_Boards-1.1.1.zip",
+          "checksum": "SHA-256:BCA75FC0D33F0D7459956105AAB1BDE135B82B6F67E41CA8056B1893479679A7",
+          "size": "4900232",
+          "boards": [
+            {"name": "IRSB"},
+            {"name": "IRMouse"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "CUIR",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "9.2.1-1.1"
+            },
+            {
+              "packager": "CUIR",
+              "name": "STM32Tools",
+              "version": "1.4.0"
+            },
+            {
+              "packager": "CUIR",
+              "name": "CMSIS",
+              "version": "5.5.1"
+            }
+          ]
         }
       ],
       "tools": [
